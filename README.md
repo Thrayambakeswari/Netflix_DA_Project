@@ -1,8 +1,10 @@
 # Project Title: Netflix Streaming Data Analysis
 ## Objective:
-The project aims to analyze Netflix streaming data from 1925 to 2021 using Python for data preprocessing and visualization, and Power BI for creating an interactive dashboard.
+Analyzed Netflix streaming data (1925–2021) using Python for preprocessing and visualizations, and Power BI for interactive dashboards. Utilized pandas and numpy for data cleaning and feature engineering. Created insights on content trends, genres, and ratings through comprehensive dashboards.
 
-Tools Used:
-Python: Data Cleaning, Preprocessing, and Visualization
-Power BI: Dashboard Design and Interactive Visualizations
-Used libraries like pandas and numpy for data analysis and visualizations.
+
+
+
+
+
+
