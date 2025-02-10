@@ -17,9 +17,10 @@ Analyzed Netflix streaming data (1925–2021) using Python for preprocessing and
 - clean the data using python
 - create dashboard with cleaned data using power bi
 
-## Dashboard image
-<a href = "https://github.com/Thrayambakeswari/Netflix_DA_Project/blob/main/Netflix_Home_Page.png">image</a>
-
+## Dashboard images
+<a href = "https://github.com/Thrayambakeswari/Netflix_DA_Project/blob/main/Netflix_Home_Page.png">home_image</a>
+<a href = "https://github.com/Thrayambakeswari/Netflix_DA_Project/blob/main/Netflix_Movies.png">movies_image</a>
+<a href = "https://github.com/Thrayambakeswari/Netflix_DA_Project/blob/main/Netflix_Shows.png">shows_image</a>
 
 
 
