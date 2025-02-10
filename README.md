@@ -22,6 +22,16 @@ Analyzed Netflix streaming data (1925–2021) using Python for preprocessing and
 <a href = "https://github.com/Thrayambakeswari/Netflix_DA_Project/blob/main/Netflix_Movies.png">movies_image</a>
 <a href = "https://github.com/Thrayambakeswari/Netflix_DA_Project/blob/main/Netflix_Shows.png">shows_image</a>
 
+## Project Insight
+- Netflix has 8792 shows (1925–2021), mostly rated TV-MA and TV-14
+- Dramas and Comedies lead, with more movies than TV shows
+- Movies: 6120, Top Actor – Shah Rukh Khan, Top Director – Rajiv Chilaka
+- Shows: 2674, Top Genre – International TV Shows, Top Actor – David Attenborough
+- Content surged after 2015, with many shows having multiple seasons
+
+## Conclusion
+Netflix offers diverse content with a significant rise in releases after 2015. Dramas and Comedies dominate movies, while International TV Shows lead among series. Key contributors include top actors like Shah Rukh Khan and David Attenborough, reflecting the platform’s global appeal and variety
+
 
 
 
