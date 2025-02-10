@@ -18,9 +18,8 @@ Analyzed Netflix streaming data (1925–2021) using Python for preprocessing and
 - create dashboard with cleaned data using power bi
 
 ## Dashboard images
-<a href = "https://github.com/Thrayambakeswari/Netflix_DA_Project/blob/main/Netflix_Home_Page.png">home_image</a>
-<a href = "https://github.com/Thrayambakeswari/Netflix_DA_Project/blob/main/Netflix_Movies.png">movies_image</a>
-<a href = "https://github.com/Thrayambakeswari/Netflix_DA_Project/blob/main/Netflix_Shows.png">shows_image</a>
+![Netflix_Home_Page](https://github.com/user-attachments/assets/df178964-54f1-4a7e-81cc-fa87d04ab45f)
+
 
 ## Project Insight
 - Netflix has 8792 shows (1925–2021), mostly rated TV-MA and TV-14
