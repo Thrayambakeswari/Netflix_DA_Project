@@ -12,6 +12,7 @@ Analyzed Netflix streaming data (1925–2021) using Python for preprocessing and
 - highlight countries producing the most content
 - useful for understanding content maturity trends by rating
 - Dashboard Interaction <a href="https://github.com/Thrayambakeswari/Netflix_DA_Project/blob/main/Netflix_Dashboard.pbix">view Dashboard</a>
+- Code to clean the data <a href="https://github.com/Thrayambakeswari/Netflix_DA_Project/blob/main/NETFLIX.ipynb">view code</a>
 
 ## Process
 - clean the data using python
